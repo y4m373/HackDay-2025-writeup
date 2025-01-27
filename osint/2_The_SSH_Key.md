@@ -10,7 +10,9 @@ Example: drive/folders/1A2B3C4D5E6F7G8H9I0JKLMNOPQRST?usp=sharing -> Flag = 1A2B
 # Steps
 
 Copy / Paste in pastebin.
+
 Check user profil and find `VjJ0b1MyTkhVblJXV0ZwaFlsUnNlbGRyWkZkbFYwNDFUMGhvVlZJeFJqQlhXSEJYWVZkV2NrNVlVbGROUkVVeVZsVmFVMU13TVZaTlJGWlRZVEZ3VlZkc1drZFhiRXBXVkcxd1dGSjZSbGRXUkU1MlRESlNXVlJ1WkZGWFJUVjJWMVpvUzJOSFNuUlplakE5`
+
 Decode multiple time from base64 to obtain : `https://drive.google.com/drive/folders/1Ld-c5bzNmWMzPTJ1M9FFSeQYECcXmUOz`
 
-Flag is `HACKDAY{1Ld-c5bzNmWMzPTJ1M9FFSeQYECcXmUOz}
+Flag is `HACKDAY{1Ld-c5bzNmWMzPTJ1M9FFSeQYECcXmUOz}`
